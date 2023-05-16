@@ -33,7 +33,7 @@ void main(){
     int n,arr[100];
     printf("Enter the length of array \n");
     scanf("%d",&n);
-    printf("Enter array:")
+    printf("Enter array:");
     for(int i=0;i<n;i++){
         scanf("%d",&arr[i]);
     }
